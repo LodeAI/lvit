@@ -1,0 +1,40 @@
+# LV IT Consulting
+
+> Independent SAP logistics consultancy based in Belgium, run by Lode Verschelde. Specialised in SAP EWM and WM implementations, solution design, interfaces and project management.
+
+- **Company:** LV IT Consulting
+- **Owner:** Lode Verschelde
+- **Role:** SAP EWM Consultant & Project Manager
+- **VAT:** BE 0735.541.793
+- **Country:** Belgium
+- **Email:** lode@lvit.be
+- **Phone:** +32 494 56 54 48
+- **LinkedIn:** https://www.linkedin.com/in/lodeverschelde/
+- **Experience:** 14 years in IT, 12 years in SAP logistics. Freelance since 2019.
+
+## Services
+
+- SAP EWM and WM / HU implementations, template design and international roll-outs
+- Solution design, process analysis and functional specifications
+- Project management and solution architecture
+- Interface design and troubleshooting: IDOC, qRFC and API
+- Warehouse automation and AGV integration
+- Data migration, stock uploads, testing, training, go-live and hypercare support
+- ABAP debugging and root cause analysis
+
+## Industries
+
+Medical devices and life sciences, food and beverage manufacturing, building materials and interior products, textiles and floor coverings, distribution centres and 3PL operations.
+
+## Countries delivered in
+
+Belgium, the Netherlands, Sweden, Poland, France, the United Kingdom, Switzerland, Turkey, Ivory Coast.
+
+## Free SAP tools built by LV IT Consulting
+
+- [SAP Barcode Generator](https://sapbarcode.be/): generates GS1-128 SSCC barcodes from a list of SSCC numbers and calculates SSCC check digits using the GS1 mod-10 algorithm.
+- [SAP Timestamp Converter](https://saptime.be/): converts SAP timestamps between the raw ABAP format (YYYYMMDDHHmmss), the SAP GUI dot-formatted display and human-readable dates, with timezone support.
+
+## Site
+
+- [Home](https://lvit.be/): company overview, services, industries and contact details.
