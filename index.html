@@ -285,7 +285,10 @@
   var root = document.documentElement;
   var stored = null;
   try { stored = localStorage.getItem('lvit-theme'); } catch(e){}
-  var initial = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  // Default is light. Change 'light' to 'dark' below to flip the default,
+  // or restore system-based detection with:
+  //   var initial = stored || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  var initial = stored || 'light';
   apply(initial);
 
   function apply(theme){
