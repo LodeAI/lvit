@@ -32,8 +32,8 @@ Belgium, the Netherlands, Sweden, Poland, France, the United Kingdom, Switzerlan
 
 ## Free SAP tools built by LV IT Consulting
 
-- [SAP Barcode Generator](https://sapbarcode.be/): generates GS1-128 SSCC barcodes from a list of SSCC numbers and calculates SSCC check digits using the GS1 mod-10 algorithm.
-- [SAP Timestamp Converter](https://saptime.be/): converts SAP timestamps between the raw ABAP format (YYYYMMDDHHmmss), the SAP GUI dot-formatted display and human-readable dates, with timezone support.
+- [SAP Barcode Generator](https://sapbarcode.lvit.be/): generates GS1-128 SSCC barcodes from a list of SSCC numbers and calculates SSCC check digits using the GS1 mod-10 algorithm.
+- [SAP Timestamp Converter](https://saptime.lvit.be/): converts SAP timestamps between the raw ABAP format (YYYYMMDDHHmmss), the SAP GUI dot-formatted display and human-readable dates, with timezone support.
 
 ## Site
 
